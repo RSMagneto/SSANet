@@ -2,7 +2,7 @@
 Pytorch code for [VIS-NIR-SWIR Hyperspectral Wheat Variety Identification: A Spectral-Spatial Synergy
 Attention Network and A Benchmark Dataset](), Computers and Electronics in Agriculture.
 
-[Yanan Qiang](), Huamei Xin, Xuquan Wang, Jiande Sun, and Kai Zhang.
+[Yanan Qiang](), Huamei Xin, Zhiyuan Ma, Xuquan Wang, Jiande Sun, and Kai Zhang.
 
 ## Citation
 If you find this work useful for your research, please cite: 
