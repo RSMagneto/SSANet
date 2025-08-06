@@ -22,7 +22,7 @@ In this paper, we constructe the VIS-NIR-SWIR hyperspectral wheat dataset(VNS-HW
 
 ## Code
 ### Prerequisite
-1. Download datasets:  https://pan.baidu.com/s/11R_PBkwMXtxgQ8QZg7Tzaw?pwd=md2t 
+1. Download datasets:  https://pan.baidu.com/s/11R_PBkwMXtxgQ8QZg7Tzaw?pwd=md2t;
 2.  Create python environment (Recommend to use [Anaconda](https://www.anaconda.com/));
 3. Install python packages.
 ```python3
