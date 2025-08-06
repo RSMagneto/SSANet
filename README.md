@@ -16,9 +16,9 @@ In this paper, we constructe the VIS-NIR-SWIR hyperspectral wheat dataset(VNS-HW
 <img src="SSANet.jpg" width="650px"/>
 
 ## Highlight
-- We build a VNS-HW hyperspectral wheat seed dataset, with wavelengths ranging from 400 nm to 1700 nm.
-- An end-to-end network is designed for wheat seed identification.
-- The multiscale AMFM with the lightweight CCF enables dynamic fusion of spectral–spatial features.
+- We build a wheat classification dataset with wavelength ranging from 400-1700 nm.
+- An end-to-end network, SSANet is designed for wheat seed identification.
+- AMFMs with the lightweight CCF enables dynamic fusion of spectral–spatial features.
 
 ## Code
 ### Prerequisite
