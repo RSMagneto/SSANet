@@ -11,7 +11,7 @@ If you find this work useful for your research, please cite:
 ```
 
 ## Introduction
-In this paper, we constructe the VIS-NIR-SWIR hyperspectral wheat dataset(VNS-HW) with bands ranging from 400 to 1700 nm. Meanwhile, we propose SSANet, a novel framework for wheat seed classification. It comprehensively extracts spatial-spectral features from seeds and dynamically fuses them to enhance discriminative capability.
+In this paper, we constructe a wide spectral range hyperspectral wheat dataset (WRHW) with bands ranging from 400 to 1700 nm. Meanwhile, we propose SSANet, a novel framework for wheat seed classification. It comprehensively extracts spatial-spectral features from seeds and dynamically fuses them to enhance discriminative capability.
 
 <img src="SSANet.jpg" width="650px"/>
 
@@ -29,7 +29,7 @@ In this paper, we constructe the VIS-NIR-SWIR hyperspectral wheat dataset(VNS-HW
   pip install -r requirements.txt
 ```
 ### Prepare datasets
-1. Place the downloaded VNS-HW dataset in the "data" folder;
+1. Place the downloaded WRHW dataset in the "data" folder;
 2. The dataset is split into training, testing, and validation sets in a ratio of 8:1:1. 
 3. --epochs 100 --lr 1e-3 --patch size 65×65. 
 ### Training and Testing
