@@ -1,6 +1,5 @@
 # SSANet
-Pytorch code for [VIS-NIR-SWIR Hyperspectral Wheat Variety Identification: A Spectral-Spatial Synergy
-Attention Network and A Benchmark Dataset](), Computers and Electronics in Agriculture.
+Pytorch code for [Towards Wide Spectral Range Hyperspectral Wheat Variety Identification: A Spectral-Spatial Synergy Attention Network and A Benchmark Dataset](), Computers and Electronics in Agriculture.
 
 Yanan Qiang, Huamei Xin, Xuquan Wang, Peng Lan, Ruirui Zhang, Jiande Sun, and Kai Zhang.
 
